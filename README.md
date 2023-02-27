@@ -2,7 +2,7 @@
 **WORK IN PROGES**
 
 Introductory Exploratory Data Analysis of US Car Auction Data. <br>
-Serves as a Tutorial for a Future EDA Projects.
+Serves as a Tutorial for a Future EDA Projects. <br>
 Data Source: https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
 
 
