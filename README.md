@@ -1,27 +1,34 @@
-# Exploratory Data Analysis - US Cars Sales
+# Introductory Exploratory Data Analysis
+Data Analysis Project exploring a US Car Sales Dataset.Ranging from basic analysis to more complex Statistical methods.
 
-Introductory Exploratory Data Analysis of US Car Auction Data. <br>
-Serves as a Tutorial for a Future EDA Projects. <br>
-Data Source: https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
-
-**WORK IN PROGES** 
-<br>
-TODO
-
-- Write Conclusions after every section
-- General Formating
-- Other Statistics (Test Hypothesis, Regression,..?)
+## Description
+This Data Analysis Project showcases a set of methods and tools to be used on any kind of Dataset.
+Demonstarting basic skills as data cleaning, handling with outliers to more complex Statistical Methods as Linear Regression, ANOVA, Hypothesis Testing,...) <br>
+Serves as a showcase of methods/tools to be used and as a Cookbook for future use. <br>
 
 
-Goals:
-- Basic Univariet & Bivariet analysis
+### Features
+- EDA
+  - Data Cleaning
+  - Univariet analysis
+  - Bivariet analysis
+  - Multiivariet analysis
+- Linear Regression
 
-Materials and methods:
-???
-
-Used Tools:
+### Built with
 - Python (Numpy,Pandas,Seaborn)
 - Jupyter Notebook
 
+## TO-DO
+- [ ] Univariet Analysis
+- [ ] Bivariet Analysis
+- [ ] Multivariet Analysis
+- [ ] Linear Regression 
+- [ ] Research other statistical methods (Test Hypothesis,ANOVA, Hypothesis Testing)
+- [ ] Write Conclusions after every section
+- [ ] General Formating
 
+
+## Materials and methods:
+- Source Data: https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset
 
